@@ -1,0 +1,22 @@
+{
+  "name": "sealious-diary",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wewe12/sealious-diary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wewe12/sealious-diary/issues"
+  },
+  "homepage": "https://github.com/Wewe12/sealious-diary#readme",
+  "dependencies": {
+    "sealious": "^0.5.9"
+  }
+}
